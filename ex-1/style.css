@@ -1,1 +1,52 @@
-/* Start coding here */
+* { 
+    box-sizing: border-box;
+    font-family: UTF-8, sans-serif;  
+}
+
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.header-box {
+    display: block;
+    width: 100vw;
+    height: 80px;
+    background-color:#92aabd;
+}
+
+.header-text {
+    margin: 0;
+    padding: 25px 30px;
+    color: #1A3C57;
+    
+}
+
+.body-box {
+    display: inline-block;
+    border: 2px solid darkblue;
+    width: 400px;
+    height: 250px;
+    margin: 20px 30px 0 30px;
+    background-color: #E4E9ED;
+}
+
+.image-place-holder {
+    display: block;
+    width: 250px;
+    height: 70px;
+    margin: 15px;
+    border:2px solid gray;
+    background-color: lightgray;
+}
+
+.body-text-head {
+    font-weight: bold;
+    color: #1A3C57;
+    margin: 15px;
+}
+
+.body-text {
+    margin: 15px;
+
+}
