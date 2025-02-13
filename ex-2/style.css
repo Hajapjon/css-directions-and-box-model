@@ -1,1 +1,27 @@
-/* Start coding here */
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin:0;
+    padding: 0;
+}
+
+.header-text {
+    font-size: 72px;
+    margin:  30px 50%;
+}
+
+.box-black {
+    display: block;
+    border: 16px solid lightgray;
+    padding: 16px;
+    background-color: black;
+}
+
+.box-khaki {
+    display: block;
+    border: 24px solid crimson;
+    height: 500px;
+    background-color: khaki;
+}
