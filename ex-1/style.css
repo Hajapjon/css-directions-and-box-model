@@ -1,1 +1,50 @@
-/* Start coding here */
+*{
+    box-sizing: border-box;
+}
+
+.top{
+    background-color:gray;
+    padding:10px ;
+}
+img{
+    margin-left: 20px; 
+    display: block;
+    width: 380px;
+    height:100px; 
+    background-color: lightgray
+}
+h4{
+
+    margin-left: 20px; 
+    margin-top: 20px;
+}
+
+.text-1{
+    margin-left: 45px;
+}
+.cafe{
+    width: 536px; 
+    height: 250px; 
+    background-color: gainsboro;
+    margin-left: 40px;
+    margin-top: 40px;
+    border: 3px solid black;
+}
+p{
+    margin-top: 20px;
+    margin-left: 20px; 
+}
+
+.location{
+    width: 536px; 
+    height: 250px; 
+    background-color: gainsboro;
+    margin-left: 40px;
+    margin-top: 40px;
+    border: 3px solid black;
+}
+
+p{
+    margin-top: 20px;
+    margin-left: 20px; 
+}
